@@ -1,6 +1,6 @@
 # Human Activity & Workspace Utilization Analysis System
 
-### station-model.ipynb - model without UI which:
+###<ins> station-model.ipynb </ins> - model without UI which: 
 
 Takes CCTV video as an input
 
@@ -20,6 +20,6 @@ Displays live analytics
 
 Generates downloadable activity log
 
-### with UI-design: Folder which does the same thing but it have gui interface via streamlit which can also have the feature to deploy the model
+### <ins> with UI-design </ins>: Folder which does the same thing but it have gui interface via streamlit which can also have the feature to deploy the model
 
-### petrol-pump_compress.mp4: Dataset which is used as the refernce for the model
+### <ins> petrol-pump_compress.mp4 </ins>: Dataset which is used as the refernce for the model
