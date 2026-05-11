@@ -2,23 +2,23 @@
 
 ### <ins> station-model.ipynb </ins> - model without UI which: 
 
-Takes CCTV video as an input
+➔Takes CCTV video as an input
 
-Detects people using YOLOv8
+➔Detects people using YOLOv8
 
-Tracks movement over time
+➔Tracks movement over time
 
-Checks whether people are inside predefined work zones (ROIs)
+➔Checks whether people are inside predefined work zones (ROIs)
 
-Classifies activity states:
+➔Classifies activity states:
 
 Working  
 Moving  
 Idle
 
-Displays live analytics
+➔Displays live analytics
 
-Generates downloadable activity log
+➔Generates downloadable activity log
 
 ### <ins> with UI-design </ins>: Folder which does the same thing but it have gui interface via streamlit which can also have the feature to deploy the model
 
