@@ -2,7 +2,7 @@
 
 * station-model.ipynb - model without UI which:
 
-Uploads CCTV video
+Takes CCTV video as an input
 
 Detects people using YOLOv8
 
