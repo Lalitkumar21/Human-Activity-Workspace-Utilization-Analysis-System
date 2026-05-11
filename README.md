@@ -12,8 +12,8 @@ Checks whether people are inside predefined work zones (ROIs)
 
 Classifies activity states:
 
-Working
-Moving
+Working  
+Moving  
 Idle
 
 Displays live analytics
