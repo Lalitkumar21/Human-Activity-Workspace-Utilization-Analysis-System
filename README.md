@@ -23,3 +23,5 @@ Idle
 ### <ins> with UI-design </ins>: Folder which does the same thing but it have gui interface via streamlit which can also have the feature to deploy the model
 
 ### <ins> petrol-pump_compress.mp4 </ins>: Dataset which is used as the refernce for the model
+
+### <ins> Recording.mp4 </ins>: Sample of the project
